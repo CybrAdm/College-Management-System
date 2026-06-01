@@ -51,6 +51,7 @@ This system simulates the core operations of a college environment. Users can si
 ## 🛠️ Tech Stack
 
 | | |
+|---|---|
 | **Language** | C++ |
 | **Data Structures** | Structs & fixed-size arrays |
 | **Algorithms** | Bubble sort (for top student rankings) |
