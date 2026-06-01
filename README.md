@@ -50,14 +50,10 @@ This system simulates the core operations of a college environment. Users can si
 
 ## 🛠️ Tech Stack
 
-| | |
 |---|---|
-| **Language** | C++ (C++11 or later) |
-| **I/O** | Standard console (`iostream`, `iomanip`) |
-| **Input Handling** | `conio.h` — used for masked password input via `_getch()` |
-| **Data Structures** | Structs & fixed-size arrays (no STL containers) |
+| **Language** | C++ |
+| **Data Structures** | Structs & fixed-size arrays |
 | **Algorithms** | Bubble sort (for top student rankings) |
-| **Platform** | Windows (due to `conio.h` dependency) |
 
 ---
 
@@ -92,8 +88,6 @@ courseSchedule     → weekday + time per course
    ./cms
    ```
 
-> ⚠️ **Note:** This project uses `conio.h` which is Windows-specific. It won't compile on Linux/macOS without substituting `_getch()`.
-
 ---
 
 ## 👥 Sample Credentials
@@ -122,3 +116,6 @@ main.cpp          → entire project (single-file architecture)
 | Yousef Allam Abdullah |
 | Marwan Mohammed Abed |
 | Yousef Ehab Makram |
+| Salah Eldin Ibrahim Salah Eldin |
+| Malek Mohammed ElShazly |
+| Philopater Farag Nabih |
